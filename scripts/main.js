@@ -12,11 +12,14 @@ $(function() {
             "Go fucking study"
         ],
         response: [
-            "Already fucking done",
-            "Give me a-fucking-nother one",
-            "Next fucking experiment",
-            "Nobody fucking cares",
-            "No fucking money in this area"
+            "➜ Already fucking done",
+            "➜ Give me a-fucking-nother one",
+            "➜ Next fucking experiment",
+            "➜ Nobody fucking cares",
+            "➜ That's fucking unethical",
+            "➜ Not fucking possible",
+            "➜ Too fucking difficult",
+            "➜ No fucking money in this area"
         ],
         template: [
             "The difference in @depvar between @group",
