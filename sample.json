@@ -1,22 +1,22 @@
 {
     "heading": [
         "Why don't you fucking research,
-        "Go fucking study"
-        "How about you fucking investigate"
+        "Go fucking study",
+        "How about you fucking investigate",
         "Your next fucking experiment should look at"
     ],
 
     "response": [
         "Already fucking done",
         "Give me a-fucking-nother one",
-        "No fucking money in this area"
-        "Next fucking experiment"
-        "Nobody fucking cares"
+        "No fucking money in this area",
+        "Next fucking experiment",
+        "Nobody fucking cares",
     ],
 
     "template": [
         "The relation between @invar and @depvar",
-        "The relationship between @invar and @depvar"
+        "The relationship between @invar and @depvar",
     ],
 
     "invar": [
