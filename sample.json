@@ -1,31 +1,27 @@
 {
     "heading": [
-        "Why don't you fucking research,
-        "Go fucking study",
-        "How about you fucking investigate",
-        "Your next fucking experiment should look at"
+        "It's a fucking",
+        "Check this shit out, a fucking"
     ],
 
     "response": [
-        "Already fucking done",
+        "Already fucking seen one",
         "Give me a-fucking-nother one",
-        "No fucking money in this area",
-        "Next fucking experiment",
-        "Nobody fucking cares",
+        "Don't really give a fuck"
     ],
 
     "template": [
-        "The relation between @invar and @depvar",
-        "The relationship between @invar and @depvar",
+        "Big @color @animal",
+        "Silly @animal with @color fur"
     ],
 
-    "invar": [
+    "animal": [
         "dog",
         "cat",
         "rabbit"
     ],
 
-    "depvar": [
+    "color": [
         "red",
         "blue",
         "green",
