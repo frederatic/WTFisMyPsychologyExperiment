@@ -22,23 +22,25 @@ $(function() {
             "➜ No fucking money in this area"
         ],
         template: [
-            "The difference in @depvar between @group",
-            "The impact of @invar on @depvar",
-            "The effects of @invar on @depvar",
-            "The influence of @invar on @depvar",
-            "The correlation between @invar and @depvar",
-            "The association between @invar and @depvar",
-            "The relation between @invar and @depvar",
-            "The relationship between @invar and @depvar"
+            "The difference in @depvar between @compare",
+            "The impact of @invar on @depvar of @group",
+            "The effects of @invar on @depvar of @group",
+            "The influence of @invar on @depvar of @group",
+            "The correlation between @invar and @depvar in @group",
+            "The association between @invar and @depvar in @group",
+            "The relation between @invar and @depvar in @group",
+            "The relationship between @invar and @depvar in @group"
         ],
         invar: [
             "alcohol consumption",
+            "daily Twitter use",
             "LSD",
             "rabbit"
         ],
         depvar: [
             "social development",
             "intelligence",
+            "attention span",
             "emotional intelligence",
             "spatial perception"
         ],
@@ -48,17 +50,16 @@ $(function() {
             "elderly",
             "men and women",
             "students",
-            "clinically depressed people",
+            "Alzheimer patients",
             "adults"
         ],
-        population: [
+        compare: [
             "Western and Eastern people",
             "humans and monkeys",
-            "dogs and cats",
+            "individualistic and collectivist cultures",
+            "extroverts and introverts",
+            "dogs and cats"
         ]
     });
-
-    // Populate using a JSON file
-    // WTF.init( 'sample.json' );
 
 }); 
