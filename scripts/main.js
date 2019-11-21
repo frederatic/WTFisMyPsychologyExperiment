@@ -35,7 +35,7 @@ $(function() {
             "alcohol consumption",
             "daily Twitter use",
             "LSD",
-            "rabbit"
+            "Cannabis"
         ],
         depvar: [
             "social development",
