@@ -1,6 +1,8 @@
 # WTF Is My Psychology Experiment?
 
-Inspired by [WhatTheFuckShouldIMakeForDinner.com](http://whatthefuckshouldimakefordinner.com/), [WhatTheFuckIsMyMashup.com](http://whatthefuckismymashup.com/) and the [WTFEngine](https://github.com/soulwire/WTFEngine/).
+No idea what to research next? No worries, with this generator you can get thousands of free ideas for your next psychology experiment!
+
+Inspired by [WhatTheFuckShouldIMakeForDinner.com](http://whatthefuckshouldimakefordinner.com/) and [WhatTheFuckIsMyMashup.com](http://whatthefuckismymashup.com/). Created using the [WTFEngine](https://github.com/soulwire/WTFEngine/).
 
 
 ## How it works
@@ -58,7 +60,4 @@ Other people used this template to create their own sites. Among them are:
 - [What the Fuck is my Mashup](http://whatthefuckismymashup.com/)
 
 
-## Notes
-
-This was written simply as a bit of fun. Zach's site was so popular that it inspired references based on other subjects, such as [What The Fuck Is My Social Media Strategy?](http://whatthefuckismysocialmediastrategy.com) (and consequently [What The Fuck Is My Mashup?](http://whatthefuckismymashup.com/)). As far as I am aware, this idea was Zach's alone and so credit to him for the inspiration. As a meme, there are doubtlessly many topics that could do with the WTF treatment; which is why I decided to create this (very) simple platform.
 
