@@ -113,7 +113,7 @@ $(function() {
             "time sensation"
         ],
         group: [
-            "children",
+            "rich people",
             "teenagers",
             "elderly",
             "men vs women",
